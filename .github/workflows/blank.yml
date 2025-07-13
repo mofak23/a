@@ -1,4 +1,4 @@
-name: TOOLBOXLAP- LiteManager
+name: nonshi
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
 jobs:
   build:
     name: Start Building...
-    runs-on: windows-2019
+    runs-on: windows-2025
     timeout-minutes: 999999
     
     steps:
